@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dashscorer-master", "dashscorer-master.csproj", "{0C4B7281-F01B-D8DE-8905-E9EFFDAB62C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dashscorer-master.Editor", "dashscorer-master.Editor.csproj", "{FED0206B-D460-2C33-8061-0D67C137B25F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0C4B7281-F01B-D8DE-8905-E9EFFDAB62C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0C4B7281-F01B-D8DE-8905-E9EFFDAB62C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0C4B7281-F01B-D8DE-8905-E9EFFDAB62C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0C4B7281-F01B-D8DE-8905-E9EFFDAB62C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FED0206B-D460-2C33-8061-0D67C137B25F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FED0206B-D460-2C33-8061-0D67C137B25F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FED0206B-D460-2C33-8061-0D67C137B25F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FED0206B-D460-2C33-8061-0D67C137B25F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

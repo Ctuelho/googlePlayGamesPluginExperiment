@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1093572629799",
+    "firebase_url": "https://dashscorer.firebaseio.com",
+    "project_id": "dashscorer",
+    "storage_bucket": "dashscorer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1093572629799:android:4f9d9172a686ae5d",
+        "android_client_info": {
+          "package_name": "com.dashscorer.cuttlefishgames"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1093572629799-l8aqvg1b5o3h7vfb9in4kfcqp5tp2u20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjGWCuNNK6YiHm0cjK-7jN-gVy-HJJeRM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
